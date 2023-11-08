@@ -60,5 +60,3 @@ origin    git@github.com:%ИМЯ_АККАУНТА%/%ИМЯ-ПРОЕКТА%.git (
 
 Пушим
 git push -u origin main
-
-That's all
